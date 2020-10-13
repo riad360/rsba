@@ -1,0 +1,27 @@
+/*********************************************************************
+
+    Template Name: Protline - Personal Portfolio HTML Template  
+    Template URI: https://themeforest.net/user/
+    Description: Protline is a responsive Portfolio template built to create modern powerful Portfolio website.
+    Author: Riad360
+    Author URI: https://riad360.info/
+    Version: 1.0
+
+    Note: This is plugins css. All plugin styles declare here.
+
+*********************************************************************/
+
+@import "plugins/FontAwesome.css";
+@import "plugins/bootstrap.min.css";
+@import "plugins/slicknav.min.css";
+@import "plugins/owl.carousel.min.css";
+@import "plugins/owl.theme.default.min.css";
+@import "plugins/animate.css";
+@import "plugins/owl.transitions.css";
+@import "plugins/nice-select.css";
+@import "plugins/flaticon.css";
+@import "plugins/slick.css";
+@import "plugins/magnific-popup.css";
+@import "plugins/";
+@import "plugins/";
+@import "plugins/";
